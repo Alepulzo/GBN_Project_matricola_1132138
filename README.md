@@ -46,13 +46,9 @@ python --version
 # Il progetto utilizza solo librerie standard Python
 # Non sono necessarie dipendenze aggiuntive
 Utilizzo
-Esecuzione Separata (Modalità Manuale)
-Terminale 1 - Avvia il Server:
-bashpython gbn_server.py
-Terminale 2 - Avvia il Client:
-bashpython gbn_client.py
-Demo Automatizzata (Modalità Consigliata)
-bashpython gbn_demo.py
+Esecuzione Demo Automatizzata
+bash
+python gbn_demo.py
 La demo esegue automaticamente:
 
 Scenario ideale (0% loss rate)
